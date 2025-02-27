@@ -22,9 +22,30 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=ritesh-bilip&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 Working on:
+ - 🖥️ Face Recognition Project
+ - 🌐 Web Development
+ -    Backend Development
+
+🌱 Currently Learning:
+ - Deep Learning with PyTorch
+ - Machine learning
+ - ComputerVision
+
+💬 Ask Me About:
+ - OpenCV and Face Recognition
+ - Python Programming
+ - Full-stack Web Development
+ - Backend Development
+
+📫 How to Reach Me:
+ - GitHub: ritish-bilip
+ - Email: dasritesh537@gmail.com
+ - LinkedIn: ritesh Kumar das
+
+⚡ Fun Facts:
+ - I'm passionate about AI and Machine Learning.
+ - I love contributing to open source projects.
+
+When I'm not coding, you can find me exploring nature or playing cricket.
 -->
