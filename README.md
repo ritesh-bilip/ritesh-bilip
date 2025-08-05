@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->on ...
 🔭 Working on:
- - 🖥️ Face Recognition Project
+ - 
  - 🌐 Web Development
  -    Backend Development
 
 🌱 Currently Learning:
+ - PYTHON , DJANGO, JAVA
  - Deep Learning with PyTorch
  - Machine learning
  - ComputerVision
