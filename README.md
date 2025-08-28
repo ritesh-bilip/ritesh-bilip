@@ -28,10 +28,10 @@ Here are some ideas to get you started:
  -    Backend Development
 
 🌱 Currently Learning:
- - PYTHON , DJANGO, JAVA
- - Deep Learning with PyTorch
- - Machine learning
- - ComputerVision
+ - PYTHON
+ -JAVA  
+ - DJNAGO
+ - POSTGARASE
 
 💬 Ask Me About:
  - Java 
