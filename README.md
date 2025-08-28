@@ -34,9 +34,9 @@ Here are some ideas to get you started:
  - ComputerVision
 
 💬 Ask Me About:
- - OpenCV and Face Recognition
+ - Java 
  - Python Programming
- - Full-stack Web Development
+ - Django
  - Backend Development
 
 📫 How to Reach Me:
