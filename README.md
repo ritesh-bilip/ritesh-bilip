@@ -26,11 +26,14 @@ Here are some ideas to get you started:
  - 
  - 🌐 Web Development
  -    Backend Development
+ -    API Development
+ -    DRF
 
-🌱 Currently Learning:
- - PYTHON
- -JAVA  
+🌱 TOP Skill: 
+ - PYTHON  
  - DJNAGO
+ - DRF
+ - JAVA
  - POSTGARASE
 
 💬 Ask Me About:
@@ -38,6 +41,7 @@ Here are some ideas to get you started:
  - Python Programming
  - Django
  - Backend Development
+ - DRF
 
 📫 How to Reach Me:
  - GitHub: ritish-bilip
