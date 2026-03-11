@@ -43,24 +43,24 @@ DSA for MNC-level interviews
 
 <div align="center">
 
-![Ritesh Kumar Das's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritesh-bilip &show_icons=true&theme=tokyonight&hide_border=true)
+![Ritesh Kumar Das's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ritesh-bilip&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ritesh-bilip &theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=https://github.com/ritesh-bilip&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-bilip &layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ritesh-bilip&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ritesh-kumar-das) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasritesh537@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ritesh-kumar-das) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasritesh537@gmail.com)
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ritesh-bilip &color=58A6FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/ritesh-bilip&color=58A6FF&style=flat-square)
 
-⭐️ From [ritesh-bilip ](https://github.com/ritesh-bilip )
+⭐️ From [https://github.com/ritesh-bilip](https://github.com/https://github.com/ritesh-bilip)
 
 </div>
